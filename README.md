@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp; MIPT 25' Applied Mathematics and Computer Science student\
+🎓 &nbsp; MIPT 25' Applied Mathematics and Computer Science student
 
 ### 🛠 &nbsp;Tech Stack
 

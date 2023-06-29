@@ -38,5 +38,5 @@
 <a href="mailto:ivannovikov1303@gmail.com"><img src="https://img.shields.io/badge/-ivannovikov1303@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://t.me/novikov_ie"><img src="https://img.shields.io/badge/-novikov_ie-3423A6?style=flat&logo=Telegram&logoColor=white"/>
 <a href="https://vk.com/novikov_ie"><img src="https://img.shields.io/badge/-novikov_ie-3C35EB?style=flat&logo=VK&logoColor=white"/>
-  <img src="https://komarev.com/ghpvc/?username=NovikovIE&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=NovikovIE&style=flat-square&color=blue" alt=""/>
 </p>

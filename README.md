@@ -10,20 +10,19 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![ASM x86_64](https://img.shields.io/badge/-ASM_x86_64-05122A?style=flat&logo=ASM_x86_64)&nbsp;\
+![ASM x86_64](https://img.shields.io/badge/-ASM_x86_64-05122A?style=flat&logo=ASM_x86_64)&nbsp;
 
 ![CLion](https://img.shields.io/badge/-CLion-05122A?style=flat&logo=CLion&logoColor=FFCF00)&nbsp;
 ![DataGrip](https://img.shields.io/badge/-Data%20Grip-05122A?style=flat&logo=datagrip)&nbsp;
 ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=PyCharm&logoColor=00FF02)&nbsp;
-![DataSpell](https://img.shields.io/badge/-Data%20Spell-05122A?style=flat&logo=dataspell)&nbsp;\
+![DataSpell](https://img.shields.io/badge/-Data%20Spell-05122A?style=flat&logo=dataspell)&nbsp;
 
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown&logoColor=FF0024)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=Bash)&nbsp;\
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=Bash)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 

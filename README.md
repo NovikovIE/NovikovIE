@@ -6,7 +6,6 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
@@ -14,7 +13,6 @@
 ![CLion](https://img.shields.io/badge/-CLion-05122A?style=flat&logo=CLion&logoColor=FFCF00)&nbsp;
 ![DataGrip](https://img.shields.io/badge/-Data%20Grip-05122A?style=flat&logo=datagrip)&nbsp;
 ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=PyCharm&logoColor=00FF02)&nbsp;
-![DataSpell](https://img.shields.io/badge/-Data%20Spell-05122A?style=flat&logo=dataspell)&nbsp;
 
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;

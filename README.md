@@ -10,7 +10,6 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
-![ASM x86_64](https://img.shields.io/badge/-ASM_x86_64-05122A?style=flat&logo=ASM_x86_64)&nbsp;
 
 ![CLion](https://img.shields.io/badge/-CLion-05122A?style=flat&logo=CLion&logoColor=FFCF00)&nbsp;
 ![DataGrip](https://img.shields.io/badge/-Data%20Grip-05122A?style=flat&logo=datagrip)&nbsp;
